@@ -25,3 +25,7 @@ kubectl get pods -n org-dvwa
 - [ ] Login to DVWA with default credentials: admin:admin
 - [ ] Reset database
 - [ ] Login to DVWA with default credentials: admin:password
+
+## Troubleshooting
+- Connection refused
+  - Check VPN settings or try to disabling it temporarily and try again
